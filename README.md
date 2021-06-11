@@ -6,4 +6,4 @@
    The following video is regarding the First Task "Basic Banking System" of My Web Development & Designing Internship at The Sparks Foundation(TSF) under their Graduate Rotational Internship Program(GRIP) in June 2021.
 
 
-   "Credit the amount to the particular account and view the account details and transfer details",these are  activities done inthe  the project done.
+   "Credit the amount to the particular account and view the account details and transfer details",these are the activities done in this project.
