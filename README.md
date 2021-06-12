@@ -6,4 +6,4 @@
    This code is regarding the First Task "Basic Banking System" of My Web Development & Designing Internship at The Sparks Foundation(TSF) under their Graduate Rotational Internship Program(GRIP) in June 2021.
 
 
-   "Credit the amount to the particular account and view the account details and transfer details",these are the activities done in this project.
+   It can simply transfer money between multiple users. A dummy data is created in the database for upto 10 customers. A customer table stores the data of the 10 customers while the transaction table has the transaction history for the transactions that take place between the customers.A user can transfer money from one account to another, view the list of customers and also check the transaction history.
